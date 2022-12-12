@@ -165,24 +165,3 @@ body {
     text-align: center;
     color: #969FAD;
 }
-
-@media screen and (max-width: 464px) {
-    body {
-        padding: 0 24px;
-    }
-
-    .card {
-        width: 100%;
-    }
-}
-
-@media screen and (max-width: 420px) {
-    body {
-        padding: 0 10px;
-    }
-
-    .rating__option {
-        width: 35px;
-        height: 35px;
-    }
-}
